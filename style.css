@@ -5,6 +5,7 @@ body {
 h1 {
     text-align:center;
     background: rgb(202, 236, 5);
+    color: blue;
 }
 
 h2 {
