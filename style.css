@@ -3,13 +3,14 @@ body {
 }
 
 h1 {
-    text-align:center
+    text-align:center;
+    background: rgb(202, 236, 5);
 }
 
 h2 {
-    text-align:center
+    text-align:center;
 }
 
 p {
-    text-align: center
+    text-align: center;
 }
