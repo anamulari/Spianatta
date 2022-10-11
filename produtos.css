@@ -6,3 +6,11 @@
 header {
     background: #f8fac7;
 }
+
+nav li {
+    display: inline;
+}
+
+nav a {
+    text-transform: uppercase;
+}
