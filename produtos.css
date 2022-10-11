@@ -4,7 +4,7 @@
 }
 
 header {
-    background: #f8fac7;
+    background: #123b07;
 }
 
 nav li {
@@ -13,6 +13,7 @@ nav li {
 
 nav a {
     text-transform: uppercase;
-    color: #000000;
+    color: #f4f7ca;
     font-weight: bold;
+    font-size: 22px;
 }
