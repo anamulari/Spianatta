@@ -6,6 +6,11 @@
 header {
     background: #123b07;
 }
+nav {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
 
 nav li {
     display: inline;
