@@ -31,3 +31,18 @@ nav a {
     font-size: 20px;
     text-decoration: none;
 }
+
+.produtos {
+    width: 940px;
+    margin: 0 auto;
+}
+
+.produtos li {
+    display: inline-block;
+    text-align: center;
+}
+
+.imagem {
+    font-size: 340px;
+    font-weight: 340px;
+}
