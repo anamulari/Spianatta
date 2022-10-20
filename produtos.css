@@ -28,7 +28,7 @@ nav a {
     text-transform: uppercase;
     color: #f4f7ca;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 22px;
     text-decoration: none;
 }
 
@@ -44,6 +44,6 @@ nav a {
 }
 
 .imagem {
-    font-size: 340px;
-    font-weight: 340px;
+    width: 410px;
+    height: 330px;
 }
