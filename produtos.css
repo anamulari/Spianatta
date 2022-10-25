@@ -1,11 +1,11 @@
 .logo {
-    width: 410px;
-    height: 330px;
+    width: 370px;
+    height: 290px;
 }
 
 header {
     background: #123b07;
-    padding: 20px 0;
+    padding: 20px;
 }
 
 .caixa {
@@ -48,6 +48,7 @@ nav a {
     font-size: 30px;
     font-weight: bold;
 }
+
 .imagem {
     width: 350px;
     height: 350px;
