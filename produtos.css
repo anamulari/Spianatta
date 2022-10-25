@@ -1,6 +1,7 @@
 .logo {
     width: 370px;
     height: 310px;
+    margin: 0px;
 }
 
 header {
@@ -21,7 +22,7 @@ nav {
 
 nav li {
     display: inline;
-    margin: 0px;
+    margin: 0 0 0 15px;
 }
 
 nav a {
