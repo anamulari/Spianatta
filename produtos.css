@@ -41,8 +41,13 @@ nav a {
     display: inline-block;
     text-align: center;
     width: 30%;
+    vertical-align: top;
 }
 
+.produtos h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
 .imagem {
     width: 350px;
     height: 350px;
