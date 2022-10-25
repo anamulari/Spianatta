@@ -10,18 +10,17 @@ header {
 
 .caixa {
     position: relative;
-    width: 240px;
+    width: 940px;
     margin: 0 auto;
 }
 nav {
-    position: absolution;
+    position: absolute;
     top: 110px;
     right: 0;
 }
 
 nav li {
     display: inline;
-    margin: 0 0 0 15px;
 }
 
 nav a {
