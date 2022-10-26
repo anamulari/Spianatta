@@ -30,12 +30,12 @@ nav a {
     text-transform: uppercase;
     color: #f4f7ca;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 2px;
     text-decoration: none;
 }
 
 .produtos {
-    width: 940px;
+    width: 740px;
     margin: 0 auto;
 }
 
