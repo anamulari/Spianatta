@@ -6,7 +6,7 @@
 
 header {
     background: #123b07;
-    padding: 20px;
+    padding: 16px;
 }
 
 .caixa {
@@ -44,7 +44,7 @@ nav a {
     text-align: center;
     width: 30%;
     vertical-align: top;
-    background: local ttccccc;
+    background: ttccccc;
     margin: 1,5%; 
 }
 
@@ -54,11 +54,11 @@ nav a {
 }
 
 .imagem {
-    width: 260px;
+    width: 35px;
     height: 250px;
 }
 
 .imagem1 {
-    width: 390px;
+    width: 590px;
     height: 320px;
 }
