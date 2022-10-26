@@ -34,6 +34,8 @@ nav a {
     text-decoration: none;
 }
 
+nav a:hover
+
 .produtos {
     width: 1040px;
     margin: 0 auto;
