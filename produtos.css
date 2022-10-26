@@ -48,9 +48,9 @@ nav a {
     margin: 1,5%; 
     padding: 30px 20px;
     box-sizing: border-box;
-    border-color: #123b07;
-    border-width: ;
-    border-style: ;
+    border-color: #00000;
+    border-width: 2px;
+    border-style: solid;
 }
 
 .produtos h2 {
