@@ -34,7 +34,9 @@ nav a {
     text-decoration: none;
 }
 
-nav a:hover
+nav a:hover { 
+    color: #c78c19;
+}
 
 .produtos {
     width: 1040px;
