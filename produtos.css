@@ -18,7 +18,7 @@ header {
 nav {
     position: absolute;
     top: 110px;
-    right: ;
+    right: 0;
 }
 
 nav li {
@@ -30,13 +30,13 @@ nav a {
     text-transform: uppercase;
     color: #f4f7ca;
     font-weight: bold;
-    font-size: 2px;
+    font-size: 20px;
     text-decoration: none;
 }
 
 .produtos {
-    width: 740px;
-    margin: 0 auto;
+    width: 1040px;
+    margin: 2 auto;
 }
 
 .produtos li {
