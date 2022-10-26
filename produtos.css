@@ -23,7 +23,7 @@ nav {
 
 nav li {
     display: inline;
-    margin: 0 0 0 15px;
+    margin: 15px;
 }
 
 nav a {
@@ -36,7 +36,7 @@ nav a {
 
 .produtos {
     width: 1040px;
-    margin: 2 auto;
+    margin: 0 auto;
 }
 
 .produtos li {
@@ -49,12 +49,12 @@ nav a {
 }
 
 .produtos h2 {
-    font-size: 30px;
+    font-size: 20px;
     font-weight: bold;
 }
 
 .imagem {
-    width: 35px;
+    width: 350px;
     height: 250px;
 }
 
