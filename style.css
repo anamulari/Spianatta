@@ -1,5 +1,5 @@
 body {
-    background: rgb(12, 68, 26);
+    background-color: #123b07;
 }
 
 /*NAVEGAÇÃO ENTRE PAGINAS*/
@@ -41,7 +41,7 @@ nav a:hover {
 h1 {
     text-align:center;
     font-size: 45px;
-    background: rgb(87, 17, 12);
+    background: rgb(141, 35, 27);
     color: rgb(247, 243, 188);
 }
 
