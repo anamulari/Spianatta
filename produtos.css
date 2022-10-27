@@ -86,15 +86,15 @@ nav a:hover {
  }
 
  .imagem {
-    width: 250px;
+    width: 150px;
  }
 
  .imagem1 {
-    width: 220px;
+    width: 120px;
  }
 
  .imagem2 {
-    width: 100px;
+    width: 10px;
  }
  }
 
@@ -111,6 +111,6 @@ footer {
   
 .copyright {
     color: #123b07;
-    font-size: 13px;
+    font-size:center 13px;
     margin: 20px 0 0;
 }
