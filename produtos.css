@@ -4,7 +4,7 @@
 }
 
 header {
-    background: #087e089d;
+    background: #0655069d;
     padding: 20px 0;
 }
 
@@ -90,12 +90,11 @@ nav a:hover {
  }
 
  .imagem1 {
-    width: 100px;
+    width: 110px;
  }
 
  .imagem2 {
     width: 10px;
- }
  }
 
 footer {
@@ -108,9 +107,9 @@ footer {
     width: 350px;
     height: 350px;
 }
-  
+
 .copyright {
-    color: #123b07;
-    font-size:center 13px;
+    color: black;
+    font-size: 13px;
     margin: 20px 0 0;
 }
