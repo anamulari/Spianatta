@@ -86,11 +86,11 @@ nav a:hover {
  }
 
  .imagem {
-    width: 170px;
+    width: 110px;
  }
 
  .imagem1 {
-    width: 110px;
+    width: 140px;
  }
 
  .imagem2 {
@@ -99,7 +99,7 @@ nav a:hover {
 
 footer {
     text-align: center;
-    background-color: antiquewhite;
+    background-color: rgb(228, 139, 23);
     padding: 10px 0;
  }
 
