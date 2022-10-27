@@ -33,9 +33,14 @@ nav a:hover {
 
 /*HOME*/
 
+#banner1 {
+    width: 350px;
+    height: 350px;
+}
+
 #banner {
-    width: 450px;
-    height: 550px;
+    width: 350px;
+    height: 350px;
 }
 
 h1 {
