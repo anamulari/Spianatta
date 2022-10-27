@@ -94,6 +94,11 @@ footer {
     background: url();
     padding: 10px 0;
  }
+
+.rodapé {
+    width: 350px;
+    height: 350px;
+}
   
 .copyright {
     color: #123b07;
