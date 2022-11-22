@@ -152,9 +152,9 @@ form label, form legend {
     cursor: pointer;
 }
 .enviar:hover {
-    background: rgb(240, 89, 89) ;
-    transform:scale(1.2);
-    transform: rotate(70deg);
+    background: rgb(248, 135, 42) ;
+    transform: scale(1.2);
+
 }
 
 
