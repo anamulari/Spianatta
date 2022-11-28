@@ -40,8 +40,8 @@ nav a:hover {
 }
 
 #banner1 {
-    width: 1450px;
-    height: 750px;
+    width: 1900px;
+    height: 1000px;
 }
 
 h1 {
@@ -54,13 +54,13 @@ h1 {
 h2 {
     text-align:center;
     font-size: 25px;
-    color:antiquewhite
+    color:rgb(9, 44, 6)
 }
 
 p {
     text-align: center;
     font-size: 18px;
-    color:antiquewhite;
+    color:rgb(6, 49, 9);
 
 }
 
@@ -87,7 +87,7 @@ header {
 
 .caixa {
     position: relative;
-    width: 1350px;
+    width: 1900px;
     margin: 0 auto;
 }
 
