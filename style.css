@@ -177,4 +177,118 @@ td {
 
 /*CSS DA PAGINA INICIAL*/
 
-fazer aqui
+/*NAVEGAÇÃO ENTRE PAGINAS*/
+.navegação {
+    padding: 20px 0;
+}
+
+.caixa {
+    position: center;
+    width: 400px;
+    margin: 0 auto;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;    
+ }
+
+nav a:hover {
+    color: rgb(255, 136, 0);
+    text-decoration: underline;
+}
+
+/*HOME*/
+
+#banner {
+    width: 350px;
+    height: 350px;
+}
+
+#banner1 {
+    width: 2100px;
+    height: 1000px;
+}
+
+h1 {
+    text-align:left;
+    font-size: 65px;
+    background: rgb(5, 59, 3);
+    color: rgb(248, 129, 17);
+}
+
+h2 {
+    text-align:center;
+    font-size: 25px;
+    color:rgb(9, 44, 6)
+}
+
+ p {
+    text-align: center;
+    font-size: 18px;
+    color:rgb(0, 0, 0);
+    
+
+}
+
+.rodape{
+    text-align: center;
+    color: antiquewhite;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(252, 190, 97);
+    padding: 10px 0;
+ }
+
+ .logo {
+    width: 250px;
+    height: 250px;
+}
+
+header {
+    background: #0446049d;
+    padding: 20px 0;
+}
+
+.caixa {
+    position: relative;
+    width: 1900px;
+    margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top: 120px;
+    right: 100px;
+
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+ nav a {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;    
+ }
+
+ .panfleto {
+    width: 300px;
+    position:  center;
+ }
+ 
+ 
